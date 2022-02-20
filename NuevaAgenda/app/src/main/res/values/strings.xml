@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AgendaGeo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="titulo_del_evento">Titulo del evento</string>
+    <string name="longitud">Longitud de la ubicación</string>
+    <string name="latitud">latitud de la ubicación</string>
+    <string name="descripcion">descripcion</string>
+</resources>
