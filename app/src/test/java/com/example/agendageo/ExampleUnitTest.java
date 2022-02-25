@@ -1,4 +1,4 @@
-package com.example.agenda_geolocalizada;
+package com.example.agendageo;
 
 import org.junit.Test;
 
